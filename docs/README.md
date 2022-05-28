@@ -1,5 +1,1 @@
-
-# 首页
-::: tip
-首页
-:::
+# VuePress-blog
